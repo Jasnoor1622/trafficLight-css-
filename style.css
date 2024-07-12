@@ -1,0 +1,37 @@
+.Box{
+    padding-top: 20px;
+    height: 400px;
+    width: 200px;
+    background-color: black;
+}
+.Red{
+    margin-left: 45px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+}
+.Yellow{
+    display: block;
+    margin-top: 30px;
+    margin-left: 45px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.Green{
+    display: block;
+    margin-top: 30px;
+    margin-left: 45px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: greenyellow;
+}
+.Stand{
+    height: 500px;
+    width: 40px;
+    background-color: black;
+    margin-left: 75px;
+}
